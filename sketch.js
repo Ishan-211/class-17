@@ -70,7 +70,7 @@ function setup() {
   console.log("Hello" + 5);
   
   trex.setCollider("rectangle",0,0,40,trex.height);
-  trex.debug = true
+ // trex.debug = true
   
   score = 0;
    console.log(m)
